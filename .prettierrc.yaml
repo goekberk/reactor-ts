@@ -1,4 +1,4 @@
-# Configuration for the Prettier VS Code extension
+# Configuration for the prettier code formatter.
 # https://prettier.io/docs/en/options.html
 tabWidth: 4
 useTabs: false
