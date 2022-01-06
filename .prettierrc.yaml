@@ -1,0 +1,9 @@
+# Configuration for the Prettier VS Code extension
+# https://prettier.io/docs/en/options.html
+tabWidth: 4
+useTabs: false
+semi: false
+trailingComma: none
+bracketSpacing: false
+arrowParens: always
+endOfLine: lf
